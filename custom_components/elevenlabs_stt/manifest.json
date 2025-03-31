@@ -1,0 +1,10 @@
+{
+  "domain": "elevenlabs_stt",
+  "name": "ElevenLabs Scribe API",
+  "codeowners": ["@damiangolojuch"],
+  "documentation": "https://github.com/damiangolojuch/elevenlabs_stt_ha",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/einToast/elevenlabs_stt_ha/issues",
+  "requirements": ["elevenlabs>=1.9.0"],
+  "version": "1.0.0"
+}
